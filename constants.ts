@@ -9,7 +9,8 @@ export const INVENTORY: Product[] = [
     price: 4500,
     description: 'The ultimate electric dirt bike. Lightweight, powerful, and ready for any terrain.',
     specs: ['60V Battery', '6kW Peak Power', '45mph Top Speed', 'Range: 50 miles'],
-    imageUrl: 'https://images.unsplash.com/photo-1622185135505-2d795003994a?auto=format&fit=crop&w=800&q=80',
+    // Slimmer, black frame electric bike style
+    imageUrl: 'https://images.unsplash.com/photo-1626544827763-d516dce335e2?auto=format&fit=crop&w=800&q=80',
     tags: ['e-bike', 'electric motorcycle', 'surron', 'dirt bike']
   },
   {
@@ -20,7 +21,8 @@ export const INVENTORY: Product[] = [
     price: 6500,
     description: 'The middleweight champion. Significantly more power and size than the Light Bee, yet nimble.',
     specs: ['74V 55Ah Battery', '12.5kW Peak Power', '56mph Top Speed', 'Range: 87 miles'],
-    imageUrl: 'https://images.unsplash.com/photo-1558980664-2506fca6bfc2?auto=format&fit=crop&w=800&q=80',
+    // Beefier off-road stance, distinct from light bee
+    imageUrl: 'https://images.unsplash.com/photo-1596706782352-73a874776104?auto=format&fit=crop&w=800&q=80',
     tags: ['surron', 'ultra bee', 'mid-size', 'electric dirt bike']
   },
   {
@@ -31,7 +33,8 @@ export const INVENTORY: Product[] = [
     price: 4800,
     description: 'More power, better suspension. The Sting R is built for the aggressive rider.',
     specs: ['60V 45Ah Battery', '8kW Peak Power', '53mph Top Speed', 'Regenerative Braking'],
-    imageUrl: 'https://images.unsplash.com/photo-1515777315835-281b94c9589f?auto=format&fit=crop&w=800&q=80',
+    // Aggressive trail riding shot
+    imageUrl: 'https://images.unsplash.com/photo-1695642647700-1c64eb3ee2a7?auto=format&fit=crop&w=800&q=80',
     tags: ['ebike', 'talaria', 'mx4', 'electric moto']
   },
   {
@@ -42,7 +45,8 @@ export const INVENTORY: Product[] = [
     price: 3800,
     description: 'Pre-owned Sur-Ron with upgraded controller and peg bracket. Serviced by Emotos.',
     specs: ['Aftermarket Controller', 'Pro Taper Bars', 'Low Miles', 'Fresh Tires'],
-    imageUrl: 'https://images.unsplash.com/photo-1623761668817-497d39678122?auto=format&fit=crop&w=800&q=80',
+    // Workshop/Garage aesthetic for used bike
+    imageUrl: 'https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=800&q=80',
     tags: ['used e-bike', 'surron', 'modded']
   }
 ];
